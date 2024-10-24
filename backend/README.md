@@ -1,8 +1,8 @@
-# Phase-1-Blog-Project - Gadget-Review
-This project involves CRUD operations, 11/04/2024. It's a simple application where a user can review, add, edit and delete posts.
-Phase 1 Project
+# Phase-1-Blog - Gadget-Review
+This project involves CRUD operations. It's a simple application where a user can review, add, edit and delete posts.
+Phase 1
 
-By Shadrack Mutai
+By George Yegon
 
 Project Description;
 CRUD Operations
@@ -24,10 +24,10 @@ CRUD Operations
     - Github
 
 ## Support and contact details
-    - email :: skmutai6@gmail.com
-    - phone :: +254723486218
+    - email :: georgeyegon67@gmail.com
+    - phone :: +254704839736
 
 ## License
-    *Licenced under the MIT License Copyright (c) 2024 **Shadrack Mutai
+    *Licenced under the MIT License Copyright (c) 2024 **George Yegon
 
 ##
